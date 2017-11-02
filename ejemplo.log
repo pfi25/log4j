@@ -1,0 +1,3 @@
+INFO main com.pfi.ejemplo3.Main - Un Hola Mundo con log4j.properties
+ERROR main com.pfi.ejemplo3.Main - en adelante se realizara
+DEBUG main com.pfi.ejemplo3.Main - ejemplos de mas nivel
